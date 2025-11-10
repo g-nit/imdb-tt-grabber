@@ -8,7 +8,7 @@
 
 > ⚠️ This extension is **not hosted on the Chrome Web Store**. You’ll need to install it manually.
 
-1. Download the `.crx` file from the [releases section](https://github.com/YourUsername/IMDB-tt-grabber/releases) of this repo.
+1. Download the `.crx` file from the [releases section](https://github.com/g-nit/IMDB-tt-grabber/releases) of this repo.
 2. Open Chrome and go to: `chrome://extensions/`.
 3. Enable **Developer mode** (toggle top-right).
 4. Drag and drop the `.crx` file into the Chrome Extensions page.
