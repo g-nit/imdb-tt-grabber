@@ -12,7 +12,9 @@
 2. Open Chrome and go to: `chrome://extensions/`.
 3. Enable **Developer mode** (toggle top-right).
 4. Drag and drop the `.crx` file into the Chrome Extensions page.
-5. Confirm the install.
+5. if you havent, grab your api key from [OMDB API](https://www.omdbapi.com/apikey.aspx)
+6. paste the key into ths extensions settings
+7. Enjoy.
 
 > ✅ The extension will now appear in your toolbar. Click it while on an IMDB page to quickly copy the title.
 
@@ -20,9 +22,9 @@
 
 ## 🖥️ How It Works
 
-1. Navigate to any IMDB page (movie, TV show, etc.).
-2. Click the **IMDB TT Grabber** icon in your Chrome toolbar.
-3. The movie/TV show title is automatically copied to your clipboard in a clean, ready-to-use format.
+1. Open the plugin and search(movie, TV show, etc.).
+2. Click the **Copy ID** icon in your Chrome toolbar.
+3. The movie/TV show title ID is automatically copied to your clipboard in a clean, ready-to-use format.
 
 ---
 ## 🎥 Demo
